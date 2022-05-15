@@ -1,4 +1,4 @@
-# Conocimientos 👋
+# Conocimientos 
 * ### Javascript
 * ### Node.js
 * ### Json
